@@ -1,6 +1,6 @@
 {
   "name": "paradigmasce-doxbox-asm",
-  "displayName": "Paradigmas: dosbox exe direct run",
+  "displayName": "ParadigmasCE: dosbox exe direct run",
   "description": "Exe file runner in dosbox at the local directory",
   "version": "3.1.0",
   "publisher": "alexmv235",
