@@ -1,7 +1,7 @@
-Paradigmas: DOSBox EXE Direct Run
+# Paradigmas: DOSBox EXE Direct Run
 
-Autor: alexmv235 [https://github.com/Alexmv235]
-Descripción
+Autor: [alexmv235](https://github.com/Alexmv235)
+## Descripción
 
 Paradigmas: DOSBox EXE Direct Run es una extensión para Visual Studio Code que permite ensamblar y ejecutar archivos .asm en DOSBox directamente desde el directorio local. Esta extensión facilita el desarrollo y la depuración de programas ensambladores, ejecutándolos de manera rápida y eficiente en un entorno emulado de DOS.
 Comandos
@@ -17,29 +17,30 @@ Descripción: Ensambla el código ASM que tienes abierto, exporta un archivo eje
 
     Comando VSCode: ParadigmasCE Debug ASM
 
-Requisitos
+## Requisitos
 
     DOSBox: Debes tener instalado DOSBox.
     NASM: Debes tener instalado NASM.
     Configuración de PATH: Agrega las rutas de DOSBox y NASM a las variables de entorno del sistema (PATH).
 
-Instalación
+## Instalación
 
     Instala DOSBox y NASM.
     Asegúrate de agregar DOSBox y NASM al PATH de tu sistema.
     Instala la extensión desde el Marketplace de Visual Studio Code o descárgala e instálala manualmente desde el archivo .vsix.
 
-Uso
+## Uso
 
     Abre cualquier archivo .asm en Visual Studio Code.
     Utiliza los comandos de la extensión a través de la paleta de comandos (Ctrl+Shift+P):
         ParadigmasCE Build and Run ASM para ensamblar y ejecutar.
         ParadigmasCE Debug ASM para ensamblar y depurar.
 
-Contribuciones
+
+## Contribuciones
 
 Si deseas contribuir a esta extensión, por favor abre un issue o envía un pull request en el [repositorio del proyecto](https://github.com/Alexmv235/CE-DOSBox-Nasm-Extension).
-Licencia
+## Licencia
 
 Esta extensión está licenciada bajo la Licencia MIT.
 
