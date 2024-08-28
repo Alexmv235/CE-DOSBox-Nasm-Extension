@@ -13,14 +13,14 @@ Descripción: Ensambla el código ASM que tienes abierto, exporta un archivo eje
 
 2. extension.debugAsm
 
-Descripción: Ensambla el código ASM que tienes abierto, exporta un archivo ejecutable .exe en la misma carpeta donde se encuentra el código ASM y ejecuta el programa en el emulador DOSBox en modo Debug. (El archivo debug.com debe estar en la misma carpeta que el código ASM).
+Descripción: Ensambla el código ASM que tienes abierto, exporta un archivo ejecutable .exe en la misma carpeta donde se encuentra el código ASM y ejecuta el programa en el emulador DOSBox en modo Debug.
 
     Comando VSCode: ParadigmasCE Debug ASM
 
 ## Requisitos
 
-    DOSBox: Debes tener instalado DOSBox.
-    NASM: Debes tener instalado NASM.
+    DOSBox: Debes tener instalado [DOSBox](https://www.dosbox.com/).
+    NASM: Debes tener instalado [NASM](https://www.nasm.us/).
     Configuración de PATH: Agrega las rutas de DOSBox y NASM a las variables de entorno del sistema (PATH).
 
 ## Instalación

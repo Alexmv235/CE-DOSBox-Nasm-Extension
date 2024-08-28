@@ -2,9 +2,16 @@
   "name": "paradigmasce-doxbox-asm",
   "displayName": "ParadigmasCE: dosbox exe direct run",
   "description": "Exe file runner in dosbox at the local directory",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "publisher": "alexmv235",
   "icon": "images/logo.png",
+  "files": [
+    "assets/debug.com",
+    "src/",
+    "images/",
+    "extension.js",
+    "package.json"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Alexmv235/CE-DOSBox-Nasm-Extension"
@@ -21,8 +28,8 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:extension.buildAndRunAsm",
-    "onCommand:extension.debugAsm" 
+    
+     
   ],
   "main": "./extension.js",
   "contributes": {
