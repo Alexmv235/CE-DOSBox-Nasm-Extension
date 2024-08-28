@@ -1,4 +1,4 @@
-/node-modules
-/test
-/images
-/.vscode
+node_modules/
+test/
+images/
+.vscode/
